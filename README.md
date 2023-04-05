@@ -21,7 +21,7 @@ architecture and verify your work.
 | [Serverless Backend][serverless-backend] | Create an AWS Lambda function that will persist data to an Amazon DynamoDB table. |
 | [RESTful APIs][restful-apis] | Expose the Lambda function via an Amazon API Gateway as a RESTful API that the static site can call. |
 
-:warning: These modules are intended to be executed linearly.
+
 
 After you have completed the workshop you can delete all of the resources that were created by following the [cleanup guide][cleanup].
 
